@@ -124,7 +124,7 @@ Refer to the [contributing guide](docs/contributing.md) for detailed instruction
 Join our community to share ideas, ask questions, and collaborate:
 - **GitHub Discussions**: Use the "Discussions" tab for brainstorming and Q&A.
 - **Discord**: Join our [Discord server](https://www.craftingtable.com/discord) for real-time collaboration.
-- **Email**: Contact us at `support@howardcraft.com`.
+- **Email**: Contact us at `support@craftingtable.com`.
 
 ---
 
